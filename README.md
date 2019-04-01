@@ -13,3 +13,4 @@ List of links where to find remote jobs
 * BairesDev - https://bairesdev.com
 * Turing - https://turing.com/
 * X-Team - https://x-team.com/
+* Vettery - https://vettery.com
