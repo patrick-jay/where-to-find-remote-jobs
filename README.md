@@ -14,8 +14,8 @@ In **Outsourcing**, you will find companies that is specialized in recruit devel
 * [Building a Killer LinkedIn Profile - The 8 characteristics you should apply to showcase your world class level](https://linkedin.com/pulse/building-killer-linkedin-profile-8-characteristics-you-ingrid-adam/)
 
 ## Preparation
-* CodeNation - https://codenation.dev/
-* Codility - https://codility.com/
+* [CodeNation](https://codenation.dev/)
+* [Codility](https://codility.com/)
 
 ## Jobs Sites
 * AngelList - http://angel.co
