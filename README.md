@@ -18,17 +18,18 @@ In **Outsourcing**, you will find companies that is specialized in recruit devel
 * [Codility](https://codility.com/)
 
 ## Jobs Sites
-* AngelList - http://angel.co
-* RemoteOk - http://remoteok.io
-* Stackoverflow Jobs - https://stackoverflow.com/jobs/
-* We Work Remotely - https://weworkremotely.com/
+* [AngelList](http://angel.co)
+* [RemoteOk](http://remoteok.io)
+* [Stackoverflow Jobs](https://stackoverflow.com/jobs)
+* [We Work Remotely](https://weworkremotely.com)
 
 ## Outsourcing
-* Toptal - https://toptal.com/
-* ScalablePath - http://scalablepath.com
-* Crossover - http://crossover.com
-* BairesDev - https://bairesdev.com
-* Turing - https://turing.com/
-* X-Team - https://x-team.com/
-* Vettery - https://vettery.com
-* Clevertech - https://clevertech.biz/careers
+* [Toptal](https://toptal.com/)
+* [ScalablePath](http://scalablepath.com)
+* [Crossover](http://crossover.com)
+* [BairesDev](https://bairesdev.com)
+* [Turing](https://turing.com)
+* [X-Team ](https://x-team.com)
+* [Vettery](https://vettery.com)
+* [Clevertech](https://clevertech.biz/careers)
+* [Pilot](https://pilot.co/)
