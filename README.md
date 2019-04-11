@@ -16,6 +16,7 @@ In **Outsourcing**, you will find companies that is specialized in recruit devel
 ## Preparation
 * [CodeNation](https://codenation.dev/)
 * [Codility](https://codility.com/)
+* [Lambda School](https://lambdaschool.com/)
 
 ## Jobs Sites
 * [AngelList](http://angel.co)
