@@ -23,6 +23,7 @@ In **Outsourcing**, you will find companies that is specialized in recruit devel
 * [RemoteOk](http://remoteok.io)
 * [Stackoverflow Jobs](https://stackoverflow.com/jobs)
 * [We Work Remotely](https://weworkremotely.com)
+* [FreshRemote.work](https://freshremote.work/)
 
 ## Outsourcing
 * [Toptal](https://toptal.com/)
